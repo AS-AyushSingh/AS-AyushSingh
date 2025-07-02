@@ -174,38 +174,10 @@ current_focus:
 fun_fact: "I debug with console.log and I'm proud of it! 😄"
 ```
 
-## 🎵 Spotify - What I'm Listening To
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26yczoulbkqzaivzo46778lma&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-</div>
-
-## � Fun Section
-<div align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-
-### ✨ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
-</div>
-
-## 📝 Latest Blog Posts & Articles
-<div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
-</div>
-
 <!-- BLOG-POST-LIST:START -->
 *Coming Soon! I'm working on some amazing articles about web development, machine learning, and cybersecurity.*
 <!-- BLOG-POST-LIST:END -->
 
-## 🎯 2025 Coding Goals
-- [ ] 🚀 Launch 3 major open-source projects
-- [ ] 📝 Write 12 technical blog posts
-- [ ] 🤝 Collaborate with 10+ developers worldwide  
-- [ ] 🏆 Contribute to 20+ repositories
-- [ ] 🎓 Complete advanced ML & AI certifications
-- [ ] 💼 Land a dream internship in tech
 
 ---
 
