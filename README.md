@@ -12,7 +12,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🎓 **Computer Science Engineering** student
+- 🎓 **CSE** student
 - 💻 **Developer In Development** 🙃😇
 - 🌱 Currently learning and exploring **new technologies**
 - 🚀 Passionate about **web development**, **machine learning**, and **cybersecurity**
