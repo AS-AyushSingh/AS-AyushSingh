@@ -170,7 +170,6 @@ current_focus:
   - 🚀 Preparing for tech internships
   - 📚 Continuous learning and skill development
 
-fun_fact: "I debug with console.log and I'm proud of it! 😄"
 ```
 
 <!-- BLOG-POST-LIST:START -->
@@ -185,7 +184,7 @@ fun_fact: "I debug with console.log and I'm proud of it! 😄"
 
 <h2>🚀 Thanks for stopping by! Let's build something amazing together! 🚀</h2>
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
 
 **"Code is like humor. When you have to explain it, it's bad!"** – Cory House
 
