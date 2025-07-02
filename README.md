@@ -199,12 +199,3 @@ fun_fact: "I debug with console.log and I'm proud of it! 😄"
 
 </div>
 
-<div align="center">
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AS-AyushSingh&style=flat-square&color=blue)
-
-⭐️ From [AS-AyushSingh](https://github.com/AS-AyushSingh)
-
-</div>
