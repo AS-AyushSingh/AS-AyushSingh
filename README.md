@@ -59,18 +59,6 @@
 - 🔐 **Cybersecurity** Research
 - 🎮 **Game Development**
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AS-AyushSingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AS-AyushSingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AS-AyushSingh&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 🏆 GitHub Trophies
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=AS-AyushSingh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
