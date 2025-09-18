@@ -64,10 +64,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=AS-AyushSingh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
-## 📈 Activity Graph
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AS-AyushSingh&theme=tokyo-night&hide_border=true&area=true&point=false" width="100%"/>
-</div>
 
 ## 💻 Profile Views & Followers
 <div align="center">
